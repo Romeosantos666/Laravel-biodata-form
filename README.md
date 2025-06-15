@@ -1,7 +1,7 @@
 # Laravel-biodata-form
 Menambahkan file php  lokasi direktori 
 
-controler biodata
+controlerbiodata.php
 /project-root-directory/app/Http/Controllers/BiodataController.php   
 
 web.php
